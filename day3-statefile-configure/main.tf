@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "remote" {
-    bucket = "state-lkjhkajsjbfjbnb"
+    bucket = "lkjhoiuadsfnmvb"
   
 }
 # resource "aws_s3_bucket_acl" "example" {
